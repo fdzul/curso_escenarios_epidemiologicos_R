@@ -56,7 +56,6 @@ El curso consta de cinco módulos, en el primero se abordan las requisitos bási
 
 #### Evidencia Fotográfica
 
-
 <html>
 <head>
 ```{=html}
@@ -98,9 +97,6 @@ El curso consta de cinco módulos, en el primero se abordan las requisitos bási
 
 </body>
 </html>
-
-
-
 <html>
 <head>
 ```{=html}
@@ -240,9 +236,5 @@ El curso consta de cinco módulos, en el primero se abordan las requisitos bási
 El curso **Identificación de los Escenarios Operativos o Epidemiológicos en R**, es similar al curso ofertado en el 2024 con la incorporación de la identificación de escenarios epidemiológicos basados en la transmisión activa. De esta forma se incluye un módulo que aborda los algoritmos para la elaboración de los mapas de calor, las cadenas de transmisión y el modelo espacial Log-gaussian Cox Process (LGCP).
 
 ## Conclusión
+
 Las invitaciones de los estados, las páginas del curso (2024 y 2025), la evidencia fotográfica presentada, la elaboración del dashboard del estado de tabasco forman parte de la evidencia para demostrar que la actividad  del **Curso de Identificación de los Escenarios Operativos o Epidemiológicos en R se realizó en los estados de Tabasco y Michocán**. Se espera que la ultima semana de febrero se realize el mismo curso en la ciudad de Oaxaca con la presencia de todos los estados y se proporcionará la capacitación a los estados que la soliciten.
-
-
-
-
-
