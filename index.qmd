@@ -46,11 +46,16 @@ El curso consta de cinco módulos, en el primero se abordan las requisitos bási
 
 ### Estado de Tabasco
 
+#### Invitación
+
+![](carta_invitacion_tabasco.png)
+
 #### Constancia
 
 ![](constancia_tabasco.png)
 
 #### Evidencia Fotográfica
+
 
 #### Dashboard elaborado en R por el estado
 
