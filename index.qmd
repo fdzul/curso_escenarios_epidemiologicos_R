@@ -16,7 +16,7 @@ execute:
 ## Introdución
 
 La Reunión Nacional de Vectores organizado por
-por la Dirección Nacional de Prevención y Control de Enfermedades Transmitidas por Vectores (ETVs) e Intoxicación por Veneno de Artrópodos (IVA) del Centro Nacional de Prevención y Control de Enfermedades (CENAPRECE) es el escenario ideal para presentar los avances sobre la investigación **Identificación de los Escenarios Operativos o Epidemiológicos en R**, y asi mismo, constituye una plataforma para transferir los conocimiento, avances, tecnologías y algoritmos computacionales relacionados con las ETVs o IVA través de talleres o cursos. En esta reunión de caracter anual se reunen los lideres nacionales y estatales de los programas de ETVs o IVAs, asi como investigadores lideres expertos en la generación de conocimiento sobre las ETVs o IVAs nacionales o internacionales. 
+por la Dirección Nacional de Prevención y Control de Enfermedades Transmitidas por Vectores (ETVs) e Intoxicación por Veneno de Artrópodos (IVA) del Centro Nacional de Prevención y Control de Enfermedades (CENAPRECE) es el escenario ideal para presentar los avances sobre la investigación **Identificación de los Escenarios Operativos o Epidemiológicos en R**, y asi mismo, constituye una plataforma para transferir los conocimientos, avances, tecnologías y algoritmos computacionales relacionados con las ETVs o IVA través de talleres o cursos. En esta reunión de caracter anual se reunen los líderes nacionales y estatales de los programas de ETVs o IVAs, asi como investigadores nacionales o internacionales expertos en la generación de conocimiento sobre las ETVs o IVAs nacionales. 
 
 ## Objetivo
 
@@ -24,9 +24,9 @@ Curso: Identificación de los Escenarios Operativos o Epidemiológicos en R
 
 ## Material & Métodos
 
-Durante en 2024 se programó en la Reunión Nacional de Vectores con sede en Mazatlan, Sinaloa el curso **Análisis Espacial del Dengue en R**, sin embargo debido a los altos niveles de violencia, la reunión se suspendió y el curso corrió con la misma suerte. Estados como Tabasco  y Michoacan solicitaron la realización del curso en el 2024, el cual fue llevado con éxito.
+Durante en 2024 se programó en la Reunión Nacional de Vectores con sede en Mazatlan, Sinaloa el curso **Análisis Espacial del Dengue en R**, sin embargo debido a los altos niveles de violencia, la reunión se suspendió y el curso corrió con la misma suerte. Estados como Tabasco y Michoacan solicitaron la realización del curso en el 2024, el cual fue llevado con éxito.
 
-En el 2025, la Reunión Nacional de Vectores se realizará en la Ciudad de Oaxaca de Juerez, Oaxaca, por lo que también se ha programado el curso **Identificación de los Escenarios Operativos o Epidemiológicos en R**
+En el 2025, la Reunión Nacional de Vectores se realizará en la Ciudad de Oaxaca de Juárez, Oaxaca, por lo que también se ha programado el curso **Identificación de los Escenarios Operativos o Epidemiológicos en R**
 
 
 ## Resultados
@@ -37,7 +37,7 @@ En el 2025, la Reunión Nacional de Vectores se realizará en la Ciudad de Oaxac
 
 [Análisis Espacial del Dengue en R](https://fdzul.github.io/spatial_analysis_dengue_R_2024/)
 
-El curso consta de cinco módulos, en el primero se abordan las requisitos básicos (instalación de R, RStudio, y paquetes, y introducción a datos espaciales). En el segundo módulo trata de los hotspots de la transmisión de dengue y en el tercer módulo comprende los hotspots del vector. En el cuarto módulo se explica el manejo integrado de las aedes aegypti y en el quinto módulo se describe el **[dengueverse](https://calm-hummingbird-41cb33.netlify.app/talks/dengueverse)**
+El curso consta de cinco módulos, en el primero se abordan las requisitos básicos (instalación de R, RStudio, y paquetes, y introducción a datos espaciales). En el segundo módulo trata de los hotspots de la transmisión de dengue y en el tercer módulo comprende los hotspots del vector. En el cuarto módulo se explica el manejo integrado de las aedes aegypti y en el quinto módulo se describe el concepto del **[dengueverse](https://calm-hummingbird-41cb33.netlify.app/talks/dengueverse)**
 
 [![](curso1.png)](https://fdzul.github.io/spatial_analysis_dengue_R_2024/)
 
@@ -48,6 +48,8 @@ El curso consta de cinco módulos, en el primero se abordan las requisitos bási
 
 #### Constancia
 
+![](constancia_tabasco.png)
+
 #### Evidencia Fotográfica
 
 ### Estado de Michoacán
@@ -56,7 +58,16 @@ El curso consta de cinco módulos, en el primero se abordan las requisitos bási
 
 #### Evidencia Fotográfica
 
+
+
 ### Curso 2025
+
+[Identificación de los Escenarios Operativos o Epidemiológicos en R](https://fdzul.github.io/epidemiological_scenarios_dengue_R_2025/)
+
+[![](curso_2025.png)](https://fdzul.github.io/epidemiological_scenarios_dengue_R_2025/)
+
+El curso **Identificación de los Escenarios Operativos o Epidemiológicos en R**, es similar al curso ofertado en el 2024 con la incorporación de la identificación de escenarios epidemiológicos basados en la transmisión activa. De esta forma se incluye un módulo que aborda los algoritmos para la elaboración de los mapas de calor, las cadenas de transmisión y el modelo espacial Log-gaussian Cox Process (LGCP).
+
 
 ## Conclusión
 
