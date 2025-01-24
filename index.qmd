@@ -52,11 +52,76 @@ El curso consta de cinco módulos, en el primero se abordan las requisitos bási
 
 #### Evidencia Fotográfica
 
+#### Dashboard elaborado en R por el estado
+
+[dashboard](https://67927a369bab8600a2ad367e--splendid-druid-fb17c4.netlify.app)
+
 ### Estado de Michoacán
 
 #### Constancia
 
 #### Evidencia Fotográfica
+
+<html>
+<head>
+```{=html}
+<style>
+.grid-container1 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 5px;
+}
+
+.grid-item1 {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 5px;
+  font-size: 15px;
+  text-align: center;
+}
+</style>
+```
+</head>
+<body>
+<h4>
+</h4>
+<p>
+</p>
+
+::: grid-container1
+
+::: grid-item1
+![](foto1.JPG)
+:::
+
+::: grid-item1
+![](foto2.HEIC)
+:::
+
+::: grid-item1
+![](foto3.HEIC)
+:::
+
+
+::: grid-item1
+![](foto4.HEIC)
+:::
+
+::: grid-item1
+![](foto5.HEIC)
+:::
+
+
+::: grid-item1
+![](foto6.HEIC)
+:::
+
+
+:::
+
+</body>
+</html>
+
 
 
 
