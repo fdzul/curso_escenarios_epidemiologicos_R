@@ -57,6 +57,102 @@ El curso consta de cinco módulos, en el primero se abordan las requisitos bási
 #### Evidencia Fotográfica
 
 
+<html>
+<head>
+```{=html}
+<style>
+.grid-container1 {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 5px;
+}
+
+.grid-item1 {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 5px;
+  font-size: 15px;
+  text-align: center;
+}
+</style>
+```
+</head>
+<body>
+<h4>
+</h4>
+<p>
+</p>
+
+::: grid-container1
+
+::: grid-item1
+![](foto_tab1.jpeg)
+:::
+
+::: grid-item1
+![](foto_tab2.jpeg)
+:::
+
+
+:::
+
+</body>
+</html>
+
+
+
+<html>
+<head>
+```{=html}
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 5px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 5px;
+  font-size: 15px;
+  text-align: center;
+}
+</style>
+```
+</head>
+<body>
+<h4>
+</h4>
+<p>
+</p>
+
+::: grid-container
+
+::: grid-item
+![](foto_tab3.jpeg)
+:::
+
+::: grid-item
+![](foto_tab4.jpeg)
+:::
+
+::: grid-item
+![](foto_tab5.jpeg)
+:::
+
+
+::: grid-item
+![](foto_tab6.jpeg)
+:::
+
+
+:::
+
+</body>
+</html>
+
+
 #### Dashboard elaborado en R por el estado
 
 [dashboard](https://67927a369bab8600a2ad367e--splendid-druid-fb17c4.netlify.app)
