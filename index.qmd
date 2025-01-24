@@ -56,6 +56,11 @@ El curso consta de cinco módulos, en el primero se abordan las requisitos bási
 
 [dashboard](https://67927a369bab8600a2ad367e--splendid-druid-fb17c4.netlify.app)
 
+
+![](dash1.png)
+
+![](dash2.png)
+
 ### Estado de Michoacán
 
 #### Constancia
