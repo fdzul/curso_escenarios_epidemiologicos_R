@@ -1,5 +1,5 @@
 ---
-title: "Cursos de Identificación de los Escenarios Operativos o Epidemiológicos en R"
+title: "Curso | Identificación de los Escenarios Operativos o Epidemiológicos en R"
 subtitle: Felipe Antonio Dzul Manzanilla | CVU 6172953
 format: 
   html:
@@ -15,12 +15,53 @@ execute:
 
 ## Introdución
 
+La Reunión Nacional de Vectores organizado por
+por la Dirección Nacional de Prevención y Control de Enfermedades Transmitidas por Vectores (ETVs) e Intoxicación por Veneno de Artrópodos (IVA) del Centro Nacional de Prevención y Control de Enfermedades (CENAPRECE) es el escenario ideal para presentar los avances sobre la investigación **Identificación de los Escenarios Operativos o Epidemiológicos en R**, y asi mismo, constituye una plataforma para transferir los conocimiento, avances, tecnologías y algoritmos computacionales relacionados con las ETVs o IVA través de talleres o cursos. En esta reunión de caracter anual se reunen los lideres nacionales y estatales de los programas de ETVs o IVAs, asi como investigadores lideres expertos en la generación de conocimiento sobre las ETVs o IVAs nacionales o internacionales. 
+
 ## Objetivo
 
+Curso: Identificación de los Escenarios Operativos o Epidemiológicos en R
 
 ## Material & Métodos
 
+Durante en 2024 se programó en la Reunión Nacional de Vectores con sede en Mazatlan, Sinaloa el curso **Análisis Espacial del Dengue en R**, sin embargo debido a los altos niveles de violencia, la reunión se suspendió y el curso corrió con la misma suerte. Estados como Tabasco  y Michoacan solicitaron la realización del curso en el 2024, el cual fue llevado con éxito.
+
+En el 2025, la Reunión Nacional de Vectores se realizará en la Ciudad de Oaxaca de Juerez, Oaxaca, por lo que también se ha programado el curso **Identificación de los Escenarios Operativos o Epidemiológicos en R**
+
+
 ## Resultados
 
+### Curso 2024
+
+### Página del curso 
+
+[Análisis Espacial del Dengue en R](https://fdzul.github.io/spatial_analysis_dengue_R_2024/)
+
+El curso consta de cinco módulos, en el primero se abordan las requisitos básicos (instalación de R, RStudio, y paquetes, y introducción a datos espaciales). En el segundo módulo trata de los hotspots de la transmisión de dengue y en el tercer módulo comprende los hotspots del vector. En el cuarto módulo se explica el manejo integrado de las aedes aegypti y en el quinto módulo se describe el **[dengueverse](https://calm-hummingbird-41cb33.netlify.app/talks/dengueverse)**
+
+[![](curso1.png)](https://fdzul.github.io/spatial_analysis_dengue_R_2024/)
+
+[![](curso2.png)](https://fdzul.github.io/spatial_analysis_dengue_R_2024/)
+
+
+### Estado de Tabasco
+
+#### Constancia
+
+#### Evidencia Fotográfica
+
+### Estado de Michoacán
+
+#### Constancia
+
+#### Evidencia Fotográfica
+
+### Curso 2025
 
 ## Conclusión
+
+
+
+
+
+
